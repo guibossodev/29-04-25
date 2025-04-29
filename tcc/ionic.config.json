@@ -1,5 +1,7 @@
 {
-  "name": "ionic-app-base",
-  "integrations": {},
+  "name": "tcc",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
