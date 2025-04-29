@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
     font-family: 'poppins', sans-serif;
+    background-image: url(../fotos/image-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position-x: 60rem;
+    background-position-y: 2rem; 
+    background-size: 50rem;
     
    
 }
@@ -23,14 +28,13 @@ body {
    
     width: 400px;
     height: 100%;
-    border: 2px solid rgb(0, 0, 0);
+    border: 1px solid rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 50px;
     padding-bottom: 50px;
     margin-bottom: 300rem;
-    border-radius: 20px;
     background-color: white;
 }
 
